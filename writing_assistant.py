@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
 
-# api_key = "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"
 api_key = st.secrets["openrouter_api_key"]
 
 
